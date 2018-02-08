@@ -394,3 +394,5 @@ diary off
 
 %% Write study info file
 output_study_info(version,study_name, params_p1, info_p1,params_p2, info_p2, params_p3, info_p3, params_p4, info_p4 )
+
+%MODIFICATION TEST IN GITHUB BY VICENTE
